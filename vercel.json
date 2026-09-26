@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/melec-%C3%A0-bouzy-la-for%C3%AAt", "destination": "/bouzy-la-foret", "permanent": true },
+    { "source": "/melec-à-bouzy-la-forêt", "destination": "/bouzy-la-foret", "permanent": true },
+    { "source": "/photos-elide-fire", "destination": "/elide-fire", "permanent": true },
+    { "source": "/photos-boule-elide-fire", "destination": "/elide-fire", "permanent": true },
+    { "source": "/photos-:slug", "destination": "/realisations", "permanent": true },
+    { "source": "/vie-privee", "destination": "/mentions-legales#vie-privee", "permanent": true },
+    { "source": "/privacy", "destination": "/mentions-legales#vie-privee", "permanent": true },
+    { "source": "/page-avis", "destination": "/", "permanent": false }
+  ]
+}
